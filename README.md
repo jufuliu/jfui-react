@@ -1,2 +1,2 @@
 # jfui-react
-this repository is first of me  
+this repository is first of mime  
